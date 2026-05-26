@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, sou Nahuel 👋
 
-<!--
-**NahuelELP/NahuelELP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou programador júnior em formação, com foco em desenvolvimento backend utilizando C#, ASP.NET Core, SQL e Entity Framework Core.
 
-Here are some ideas to get you started:
+Atualmente estou a desenvolver projetos práticos para consolidar conhecimentos em APIs REST, bases de dados, Programação Orientada a Objetos, Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias:
+- C#
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- MySQL
+- Postman
+- Swagger
+- Git / GitHub
